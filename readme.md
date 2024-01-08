@@ -24,7 +24,7 @@ To install and run the project, follow these steps:
 
 ## Usage
 
-After starting the server, open `http://localhost:3000` in your browser. You can create an account, log in, create tasks, and start tracking your time.
+After starting the server, open `http://localhost:3001` in your browser. You can create an account, log in, create tasks, and start tracking your time.
 
 
 ## API Endpoints
